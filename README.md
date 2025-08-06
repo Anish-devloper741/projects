@@ -1,4 +1,4 @@
 # projects
 first project
 <Br>
-Author : Anish Jatu
+Author : Mohammed Anish Jatu
